@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "2Q9fPgOREh0=",
@@ -50,4 +51,13 @@
       ]
     }
   ]
+=======
+{
+  "version": 2,
+  "dgSpecHash": "I5hXeE2Jxk9XhJ4m5hDp+bjfKzf5E9tQBVPGHsxbAYGjCABxQcLnrzyRf79qye8F4XTukdJWL1XvTAn2SSI/mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marni\\OneDrive\\Documents\\0) My Files\\Visual Studio Repos\\Anime Calculator\\Anime Calculator\\Anime Calculator.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 29aff884ff88e7fe56aa44e9304cdd77f3faf529
 }
